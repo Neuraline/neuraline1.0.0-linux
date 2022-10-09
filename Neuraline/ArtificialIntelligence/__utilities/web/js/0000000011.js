@@ -1,0 +1,1 @@
+const inputs = ["MobileNet"]; const outputs = []; const net_model = 0; const minimal_precision = 0.5;
